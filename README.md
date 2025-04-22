@@ -21,7 +21,7 @@ I'm currently transitioning from a successful career in HR & Administration into
 - In Progress: Deep Learning Specialization
 
 ### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/santhoshjecob97](https://www.linkedin.com/in/santhoshjecob97)
+- **LinkedIn:** [www.linkedin.com/in/santhoshjecobai](https://www.linkedin.com/in/santhoshjecobai)
 - **Email:** santhoshjecob97@gmail.com
 
 Let's build the future with data!
