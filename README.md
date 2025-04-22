@@ -1,13 +1,27 @@
-- 👋 Hi, I’m @santhoshjecob
-- 👀 I’m interested in  AI ...
-- 🌱 I’m currently learning AI and Data Science...
-- 💞️ I’m looking to collaborate on Real World Problem...
-- 📫 How to reach me ... santhoshjecob97@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👍 Lets Connect and Create 
+# Hi there, I'm Santhosh Jecob! 👋
 
-<!---
-santhoshjecob97/santhoshjecob97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Aspiring AI & Data Scientist | HR Professional | Python & ML Enthusiast
+
+I'm currently transitioning from a successful career in HR & Administration into the world of Artificial Intelligence and Data Science. With over 5 years of experience managing people and processes, I've now found my passion in solving problems using **Python**, **Machine Learning**, and **Deep Learning**.
+
+### 🔧 Tech Stack
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow (learning)  
+- **Tools:** Jupyter, Power BI, MS Excel, Greythr, HRMS 
+- **Soft Skills:** Problem Solving, Communication, Collaboration, HR Analytics, Machine Learning.
+
+### 📊 AI/ML Projects
+- **Salary Prediction Model:** Using regression to estimate pay ranges
+- **Employee Attrition Analysis:** Identifying risk factors with classification models
+- **Startup Success Predictor:** Predicting success chances of new businesses
+> Visit my repos to explore project details and code.
+
+### 🎓 Learning Path
+- Completed: Python for Data Science, Machine Learning  
+- In Progress: Deep Learning Specialization
+
+### 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/santhoshjecob97](https://www.linkedin.com/in/santhoshjecob97)
+- **Email:** santhoshjecob97@gmail.com
+
+Let's build the future with data!
